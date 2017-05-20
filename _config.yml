@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Gabriele Rigo"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "I am a theoretical physicist."
+  location         : "Syracuse, NY"
   email            :
   uri              :
   bitbucket        :
