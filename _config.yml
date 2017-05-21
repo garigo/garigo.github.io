@@ -13,7 +13,7 @@ name                     : "Gabriele Rigo"
 description              : "I am a physicist."
 url                      : "http://gabrielerigo.com"
 baseurl                  :
-repository               : # GitHub username/repo-name e.g. "garigo/my-website"
+repository               : "garigo/garigo.github.io"
 teaser                   : "/assets/images/Cover.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
