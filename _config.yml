@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "My Website"
+title                    : "Gabriele Rigo"
 title_separator          : "-"
 name                     : "Gabriele Rigo"
 description              : "I am a physicist."
@@ -81,30 +81,30 @@ author:
   avatar           : "/assets/images/Profile.jpg"
   bio              : "I am a theoretical physicist."
   location         : "Syracuse, NY"
-  email            :
+  email            : "garigo@syr.edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "gabriele.rigo.754"
   foursquare       :
-  github           :
+  github           : "garigo"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "gabriele-rigo-a6023413atwit"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "gabriele_rigo"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :
 
 
 # Reading Files
